@@ -10,3 +10,9 @@ table{
 td{
     text-align: left;
 }
+
+.tableSize{
+    width: 600px;
+
+    margin: 0 auto;
+}

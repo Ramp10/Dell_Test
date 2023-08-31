@@ -34,5 +34,5 @@ export interface UserDataProps{
 }
 
 export interface AddNewUserProps{
-    addNewUser: (user: User[]) => void
+    addNewUser: (user: User) => void
 }
